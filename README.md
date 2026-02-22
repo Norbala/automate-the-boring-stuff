@@ -13,4 +13,11 @@ Local and global Scopes - watch out! Variables living only locally in function
 
 try and except go good with "raise Exception("exception message")"
 
-"assert" test should crash the program if it fails 
+"assert" test should crash the program if it fails
+
+Instead of print(), use logging.debug - more controllable and easily deactivated (at TOP tho)
+
+Enumerate - cool function to use in for loops on lists when you need both index and item
+- for index, item in list("a","b","c"): print (index, item)
+
+Both variables as well as lists can be augmentally assigned (+=) 
