@@ -1,0 +1,6 @@
+Zadatci
+- napravi GitHub repo za svoj SP500 tracker i posalji skriptu tamo
+  - pripazi i provjeri s ChatGPT oko environmenta, moras li kreirat zasebni za te stare skripte pa onda poslat na GitHub
+
+- posalji ATBS content u repo na GitHub
+- nastavi s ATBS zadatkom (read_files_Regex)
